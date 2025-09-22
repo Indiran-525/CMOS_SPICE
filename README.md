@@ -56,13 +56,4 @@ The simulations explore both **DC and transient behaviors**, considering **param
 
 ---
 
-## Getting Started
-
-1. Open the desired SPICE deck (`.sp` or `.cir` file) in your preferred SPICE simulator (LTspice, NGSPICE, PSpice, etc.).
-2. Run **DC, AC, or transient simulations** as specified in the netlist.
-3. Analyze the results for **Id-Vds, Id-Vgs, and VTC curves**.
-4. Modify parameters to observe **device or inverter behavior under different conditions**.
-
----
-
 This repository is a reflection of my **hands-on learning experience** for understanding CMOS circuit design and MOSFET behavior through **NGSPICE** (CMOS SPICE SIMULATION - VSD).
