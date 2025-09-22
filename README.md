@@ -24,7 +24,7 @@ The simulations explore both **DC and transient behaviors**, considering **param
 ### 3. NMOS Characterization 🔬
 - Simulate **Id-Vds characteristics** for different gate voltages.
 - Study **velocity saturation effects** in short-channel MOSFETs using Id-Vgs curves.
-- (simulation files)[https://github.com/Indiran-525/CMOS_SPICE/tree/main/DAY1]
+- [simulation files](https://github.com/Indiran-525/CMOS_SPICE/tree/main/DAY1)
 
 ### 4. CMOS Inverter Study 🟩
 - Understand the **structure and operation** of CMOS inverters.
