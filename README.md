@@ -22,9 +22,9 @@ The simulations explore both **DC and transient behaviors**, considering **param
   - **Models**: definitions describing the behavior of devices / formulas 📐
 
 ### 3. NMOS Characterization 🔬
-- Simulate **Id-Vds characteristics** for different gate voltages.
-- Study **velocity saturation effects** in short-channel MOSFETs using Id-Vgs curves.
-- [DAY1](https://github.com/Indiran-525/CMOS_SPICE/tree/main/DAY1)
+- Simulate **Id-Vds characteristics** for different gate voltages - [DAY1](https://github.com/Indiran-525/CMOS_SPICE/tree/main/DAY1).
+- Study **velocity saturation effects** in short-channel MOSFETs using Id-Vgs curves - [DAY2](https://github.com/Indiran-525/CMOS_SPICE/tree/main/DAY2).
+
 
 ### 4. CMOS Inverter Study 🟩
 - Understand the **structure and operation** of CMOS inverters.
@@ -32,10 +32,10 @@ The simulations explore both **DC and transient behaviors**, considering **param
 - Simulate **transient response** to input transitions using SPICE.
 
 ### 5. CMOS Inverter Robustness Analysis 🛡️
-- Analyze **switching threshold variations** due to device sizing.
-- Evaluate **noise margins**: `VIL`, `VIH`, `VOL`, `VOH` 🔊
+- Analyze **switching threshold variations** due to device sizing- [DAY3](https://github.com/Indiran-525/CMOS_SPICE/tree/main/DAY3).
+- Evaluate **noise margins**: `VIL`, `VIH`, `VOL`, `VOH` 🔊 - [DAY4](https://github.com/Indiran-525/CMOS_SPICE/tree/main/DAY4)
 - Study the effect of **PMOS sizing on inverter switching threshold**.
-- Investigate how **supply voltage variation and device parameter variations** affect the VTC.
+- Investigate how **supply voltage variation and device parameter variations** affect the VTC- [DAY5](https://github.com/Indiran-525/CMOS_SPICE/tree/main/DAY5).
 
 ---
 
