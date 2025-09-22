@@ -3,7 +3,7 @@
 This repository contains **SPICE simulations of NMOS, PMOS, and CMOS inverters** using various device models.  
 It is designed to help students, researchers, and enthusiasts understand **MOSFET device behavior, CMOS inverter characteristics, and circuit robustness** under different operating conditions.
 
-The simulations explore both **DC and transient behaviors**, considering **parameter variations, device sizing, and supply voltage effects**. This makes the repository useful for **learning, experimentation, and research purposes**.
+The simulations explore both **DC and transient behaviors**, considering **parameter variations, device sizing, and supply voltage effects**. 
 
 ---
 
@@ -17,9 +17,9 @@ The simulations explore both **DC and transient behaviors**, considering **param
 ### 2. Introduction to SPICE Simulations
 - Learn the **importance of SPICE** in circuit design and verification.
 - Get familiar with **SPICE deck components**:
-  - **Parameters**: reusable constants for easy design adjustments
-  - **Netlist**: textual representation of the circuit
-  - **Models**: definitions describing the electrical behavior of devices
+  - **Parameters**: process constants that are necessary ( body effect coefficient, thershold voltage, etc).
+  - **Netlist**: textual representation of the circuit and wiring.
+  - **Models**: definitions describing the behavior of devices / formulas.
 
 ### 3. NMOS Characterization
 - Simulate **Id-Vds characteristics** for different gate voltages.
@@ -65,4 +65,4 @@ The simulations explore both **DC and transient behaviors**, considering **param
 
 ---
 
-This repository provides a **hands-on learning experience** for understanding CMOS circuit design and MOSFET behavior through **simulation-based exploration**.
+This repository is a reflection of my **hands-on learning experience** for understanding CMOS circuit design and MOSFET behavior through **NGSPICE** (CMOS SPICE SIMULATION - VSD).
